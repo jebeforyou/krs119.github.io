@@ -1,3 +1,5 @@
+//krs kelas C
+
 function add_krs(id)
 {
     var url = "https://siakad.unj.ac.id/isi_krs/tambahMK";
